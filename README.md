@@ -4,7 +4,7 @@ Cette application mobile, "Suivi de mes Achats", est conçue pour vous aider à 
 
 ## Collecte et Utilisation des Informations
 
-Nous collectons certaines informations personnelles lorsque vous utilisez notre application, telles que votre nom, votre adresse e-mail et les données relatives à vos achats et budgets. Ces informations sont utilisées uniquement pour fournir les services que vous avez demandés, tel que le suivi de vos dépenses et la gestion de votre budget.
+Nous collectons certaines informations personnelles lorsque vous utilisez notre application, telles que votre nom, votre adresse numéro de téléphone, votre âge et les données relatives à vos achats et budgets. Ces informations sont utilisées uniquement pour fournir les services que vous avez demandés, tel que le suivi de vos achats et la gestion de votre budget.
 
 ## Partage des Informations
 
